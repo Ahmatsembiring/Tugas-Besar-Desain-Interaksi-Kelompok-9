@@ -107,19 +107,16 @@ Dashboard khusus untuk panitia/UKM yang menyelenggarakan event donor darah di ka
 <table>
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/100" width="100px;" alt="Agus Subekti"/><br />
       <sub><b>Agus Subekti</b></sub><br />
       <sub>123140104</sub><br />
       <a href="https://github.com/agussubekti">GitHub</a>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/100" width="100px;" alt="Ebentua Philippus Limbong"/><br />
       <sub><b>Ebentua Philippus Limbong</b></sub><br />
       <sub>123140086</sub><br />
       <a href="https://github.com/ebenlimbong">GitHub</a>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/100" width="100px;" alt="Ahmat Prayoga Sembiring"/><br />
       <sub><b>Ahmat Prayoga Sembiring</b></sub><br />
       <sub>123140053</sub><br />
       <a href="https://github.com/Ahmatsembiring">GitHub</a>
@@ -127,13 +124,11 @@ Dashboard khusus untuk panitia/UKM yang menyelenggarakan event donor darah di ka
   </tr>
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/100" width="100px;" alt="Rifael Eurico Sitorus"/><br />
       <sub><b>Rifael Eurico Sitorus</b></sub><br />
       <sub>123140077</sub><br />
       <a href="https://github.com/eltoruz">GitHub</a>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/100" width="100px;" alt="Aryasatya Widyatna Akbar"/><br />
       <sub><b>Aryasatya Widyatna Akbar</b></sub><br />
       <sub>123140164</sub><br />
       <a href="https://github.com/aryasatya">GitHub</a>
