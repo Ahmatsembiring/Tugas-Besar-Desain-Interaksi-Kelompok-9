@@ -6,8 +6,6 @@
 
 <div align="center">
 
-![BloodConnect ITERA Logo](logo/image.png)
-
 [![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/qxkvh65dPoc03dSkx6n8SK/BloodConnect?node-id=188-2051&t=mByyDOpggkEYF0bk-0)
 [![Canva](https://img.shields.io/badge/Canva-Presentation-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/design/DAG4mdnsH5s/MNE5xpQdyyWPxQu6nWuDZQ/edit)
 [![Google Docs](https://img.shields.io/badge/Google_Docs-Report-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1AQ0_ZAUnnfgKJigDwR-NvmLJz2xCyitE/edit)
