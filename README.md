@@ -6,7 +6,6 @@
 
 <div align="center">
 
-<img src="https://via.placeholder.com/200x200.png?text=BloodConnect+ITERA" alt="BloodConnect ITERA Logo" width="200"/>
 
 <br/>
 
