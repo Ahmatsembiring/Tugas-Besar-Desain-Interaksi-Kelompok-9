@@ -2,11 +2,10 @@
 
 <div align="center">
 
-# BloodConnect ITERA 🩸
+# 🩸 BloodConnect ITERA  
+**Aplikasi Donor Darah Digital untuk Lingkungan Kampus ITERA**
 
-<div align="center">
-
-[![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/qxkvh65dPoc03dSkx6n8SK/BloodConnect?node-id=188-2051&t=mByyDOpggkEYF0bk-0)
+[![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/qxkvh65dPoc03dSkx6n8SK/BloodConnect)
 [![Canva](https://img.shields.io/badge/Canva-Presentation-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/design/DAG4mdnsH5s/MNE5xpQdyyWPxQu6nWuDZQ/edit)
 [![Google Docs](https://img.shields.io/badge/Google_Docs-Report-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1AQ0_ZAUnnfgKJigDwR-NvmLJz2xCyitE/edit)
 
@@ -16,177 +15,144 @@
 
 ## 📋 Tentang Proyek
 
-**BloodConnect ITERA** adalah aplikasi mobile yang dirancang khusus untuk mempermudah urusan donor darah di Institut Teknologi Sumatera (ITERA). Aplikasi ini hadir sebagai solusi digital untuk menghubungkan pendonor, pencari darah, dan penyelenggara event donor darah di lingkungan kampus.
-
-### 🎯 Tujuan Aplikasi
-
-- Memudahkan pencarian pendonor darah dengan golongan darah tertentu secara cepat
-- Mendigitalisasi proses pendaftaran event donor darah kampus
-- Menyediakan media terpusat untuk menghubungkan pendonor dan penerima darah
-- Meningkatkan kesadaran dan edukasi mahasiswa tentang donor darah
+**BloodConnect ITERA** adalah aplikasi mobile yang dirancang untuk mempermudah proses donor darah di lingkungan Institut Teknologi Sumatera (ITERA).  
+Aplikasi ini hadir sebagai solusi digital untuk menghubungkan **pendonor**, **pencari darah**, dan **penyelenggara event donor darah** dalam satu platform terintegrasi.
 
 ---
 
-## Latar Belakang Masalah
+## 🎯 Tujuan Aplikasi
+
+- Memudahkan pencarian pendonor darah berdasarkan golongan darah secara cepat  
+- Mendigitalisasi proses pendaftaran event donor darah kampus  
+- Menyediakan media terpusat untuk menghubungkan pendonor dan penerima darah  
+- Meningkatkan kesadaran serta edukasi mahasiswa tentang donor darah  
+
+---
+
+## 🚩 Latar Belakang Masalah
 
 Berdasarkan observasi dan diskusi dengan mahasiswa ITERA, ditemukan beberapa permasalahan utama:
 
-1. **Kesulitan Pencarian Cepat** - Sulit menemukan pendonor darah dengan golongan darah tertentu, terutama dalam kondisi darurat
-2. **Kurangnya Platform Terpusat** - Belum ada media digital yang menghubungkan pendonor dan penerima darah secara langsung
-3. **Proses Manual** - Kegiatan donor darah kampus belum terdigitalisasi, pendaftaran masih manual
-4. **Minimnya Edukasi** - Kurangnya kesadaran mahasiswa tentang manfaat donor darah dan prosedur kesehatannya
+1. **Kesulitan pencarian cepat** pendonor darah, terutama pada kondisi darurat  
+2. **Belum adanya platform terpusat** untuk donor darah di lingkungan kampus  
+3. **Proses manual**, pendaftaran event donor darah belum terdigitalisasi  
+4. **Minimnya edukasi** mengenai manfaat dan prosedur donor darah  
 
 ---
 
-## ✨ Fitur
+## ✨ Fitur Utama
 
 ### 🔍 1. Pencarian Pendonor Darurat
+Fitur untuk menemukan pendonor secara cepat berdasarkan golongan darah dan rhesus.
 
-Memungkinkan pencarian cepat dan terverifikasi untuk menemukan pendonor sukarela di lingkungan kampus berdasarkan golongan darah dan rhesus. Fitur ini dirancang khusus untuk situasi darurat yang kritis.
-
-**Fitur Detail:**
-
-- Filter berdasarkan golongan darah (A, B, AB, O)
-- Filter berdasarkan rhesus (+/-)
-- Informasi kontak pendonor yang tersedia
-- Status ketersediaan pendonor real-time
-- Notifikasi push untuk permintaan darurat
+- Filter golongan darah (A, B, AB, O)
+- Filter rhesus (+ / −)
+- Informasi kontak pendonor
+- Status ketersediaan pendonor
+- Notifikasi permintaan donor darurat
 
 ### 📝 2. Pendaftaran Event Online
+Mempermudah proses pendaftaran event donor darah kampus.
 
-Mendigitalisasi proses pendaftaran event donor darah. Mahasiswa bisa mendaftar secara online, dan panitia (UKM) mendapatkan dashboard otomatis untuk mengelola pendaftar.
-
-**Fitur Detail:**
-
-- Formulir pendaftaran online yang mudah
-- Jadwal event donor darah kampus
-- Reminder otomatis sebelum event
-- QR Code untuk check-in peserta
-- Riwayat partisipasi donor darah
+- Formulir pendaftaran online
+- Jadwal event donor darah
+- Reminder otomatis
+- QR Code check-in peserta
+- Riwayat partisipasi donor
 
 ### 📚 3. Pusat Edukasi & Informasi
+Media edukasi untuk meningkatkan kesadaran donor darah.
 
-Menyediakan konten tepercaya (artikel, infografis, dan FAQ) untuk mematahkan mitos dan menjawab keraguan. Fitur ini bertujuan untuk meningkatkan kesadaran dan kenyamanan calon pendonor pemula.
-
-**Fitur Detail:**
-
-- Artikel tentang manfaat donor darah
-- Infografis prosedur donor darah
+- Artikel manfaat donor darah
+- Infografis prosedur donor
 - FAQ (Frequently Asked Questions)
-- Video edukatif tentang proses donor
+- Video edukatif
 - Tips kesehatan sebelum dan sesudah donor
 
 ### 📊 4. Dashboard Penyelenggara
-
-Dashboard khusus untuk panitia/UKM yang menyelenggarakan event donor darah di kampus.
-
-**Fitur Detail:**
+Dashboard khusus panitia/UKM penyelenggara event donor darah.
 
 - Manajemen pendaftar event
-- Statistik dan laporan donor darah
-- Broadcast notifikasi ke peserta
-- Validasi dan verifikasi peserta
+- Statistik dan laporan donor
+- Broadcast informasi ke peserta
+- Validasi peserta
 - Export data pendaftar
 
 ### 👤 5. Profil Pendonor
+Profil personal pendonor dalam aplikasi.
 
-**Fitur Detail:**
-
-- Informasi pribadi dan golongan darah
+- Informasi pribadi & golongan darah
 - Riwayat donor darah
-- Achievement badges
-- Sertifikat digital donor darah
-- Pengaturan notifikasi dan privasi
+- Sertifikat donor darah digital
+- Pengaturan notifikasi & privasi
+
+---
 
 ## 👨‍💻 Tim Pengembang
 
 <table>
   <tr>
-    <td align="center">
-      <sub><b>Agus Subekti</b></sub><br />
-      <sub>123140104</sub><br />
-      <a href="https://github.com/agussubekti">GitHub</a>
-    </td>
-    <td align="center">
-      <sub><b>Ebentua Philippus Limbong</b></sub><br />
-      <sub>123140086</sub><br />
-      <a href="https://github.com/ebenlimbong">GitHub</a>
-    </td>
-    <td align="center">
-      <sub><b>Ahmat Prayoga Sembiring</b></sub><br />
-      <sub>123140053</sub><br />
-      <a href="https://github.com/Ahmatsembiring">GitHub</a>
-    </td>
+    <td align="center"><b>Agus Subekti</b><br/>123140104<br/><a href="https://github.com/agussubekti">GitHub</a></td>
+    <td align="center"><b>Ebentua Philippus Limbong</b><br/>123140086<br/><a href="https://github.com/ebenlimbong">GitHub</a></td>
+    <td align="center"><b>Ahmat Prayoga Sembiring</b><br/>123140053<br/><a href="https://github.com/Ahmatsembiring">GitHub</a></td>
   </tr>
   <tr>
-    <td align="center">
-      <sub><b>Rifael Eurico Sitorus</b></sub><br />
-      <sub>123140077</sub><br />
-      <a href="https://github.com/eltoruz">GitHub</a>
-    </td>
-    <td align="center">
-      <sub><b>Aryasatya Widyatna Akbar</b></sub><br />
-      <sub>123140164</sub><br />
-      <a href="https://github.com/aryasatya">GitHub</a>
-    </td>
-    <td align="center">
-    </td>
+    <td align="center"><b>Rifael Eurico Sitorus</b><br/>123140077<br/><a href="https://github.com/eltoruz">GitHub</a></td>
+    <td align="center"><b>Aryasatya Widyatna Akbar</b><br/>123140164<br/><a href="https://github.com/aryasatya">GitHub</a></td>
+    <td></td>
   </tr>
 </table>
 
-### 📚 Pembimbing
+---
 
-- **Dosen Pengampu:** Amirul Iqbal, S.Kom., M.Eng.
+## 📚 Pembimbing
+
+- **Dosen Pengampu:** Amirul Iqbal, S.Kom., M.Eng.  
 - **Asisten Praktikum:** Fauzi Azizi (122140106)
 
 ---
 
 ## 🏫 Institusi
 
-**Program Studi Teknik Informatika**
-Fakultas Teknologi Industri
-Institut Teknologi Sumatera
-November 2025
+**Program Studi Teknik Informatika**  
+Fakultas Teknologi Industri  
+Institut Teknologi Sumatera  
+**November 2025**
 
 ---
 
-## 📸 Demo
+## 🔗 Dokumentasi & Evaluasi
 
-### Screenshots
+### ▶️ Prototype Final
+[![Figma Prototype](https://img.shields.io/badge/Figma-Prototype-1ABCFE?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/proto/qxkvh65dPoc03dSkx6n8SK/BloodConnect)
 
-_Coming Soon - Screenshots aplikasi akan ditambahkan_
+### 📊 PPT Final
+[![Canva PPT](https://img.shields.io/badge/Canva-PPT_Final-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/design/DAG7QQbQ1X8/SJkWqYT0GCOFRX1gpQzjIw/edit)
 
-### Wireframes
+### 🧪 Maze Testing
+[![Maze](https://img.shields.io/badge/Maze-Usability_Testing-000000?style=for-the-badge&logo=maze&logoColor=white)](https://t.maze.co/478798583)
 
-_Coming Soon - Wireframes akan ditambahkan_
+### 📋 Kuesioner
+[![Google Forms](https://img.shields.io/badge/Google_Forms-Kuesioner-673AB7?style=for-the-badge&logo=googleforms&logoColor=white)](https://forms.gle/w65A5rSbixQt49hF9)
 
-### Prototype
+### 📊 SUS (SPSS)
+[![Google Sheets](https://img.shields.io/badge/Google_Sheets-SUS_SPSS-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1opB5-FH5HZjkRmLXP-og_cNFSI6Tgk03/edit)
 
-Akses prototype interaktif: [Link Figma/Adobe XD]
+### 📑 Kajian Akademik
+[![KA 1](https://img.shields.io/badge/Google_Docs-KA_1-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1npJvFGsBVQFWjQHwn-CufPfPXUXJ8cHyjMowEy_ID1c/edit)
+[![KA 2](https://img.shields.io/badge/Google_Docs-KA_2-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1Y3yfF9_7MjHI37lfrzy3RMHxjKz06EYVHcGmRlaBgbA/edit)
+[![KA 3](https://img.shields.io/badge/Google_Docs-KA_3-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1kBgJTTZCo9QQoR6jsBVsY8Wx_cX8PCqnvqIgVhKI_3A/edit)
 
-### User Flow
-
-_Coming Soon - Diagram user flow akan ditambahkan_
+### 👤 User Persona
+[![Canva Persona](https://img.shields.io/badge/Canva-User_Persona-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/design/DAG5PThRuA0/_yJnAWDZYpiody-JpjH7Rg/edit)
 
 ---
-
-## 🛠️ Tech Stack
-
-### Design & Prototyping
-
-- **Figma** - UI/UX Design & Prototyping
-- **Adobe Illustrator** - Icon & Asset Design
 
 <div align="center">
 
-**Dibuat dengan ❤️ oleh Tim Kelompok 9**
+**Dibuat dengan ❤️ oleh Kelompok 9**  
+**Teknik Informatika – Institut Teknologi Sumatera**
 
-**Program Studi Teknik Informatika - Institut Teknologi Sumatera**
-
-⭐ Jangan lupa berikan bintang jika proyek ini bermanfaat!
-
----
-
-_"Setetes darah Anda, sejuta harapan bagi mereka"_
+_"Setetes darah Anda, sejuta harapan."_
 
 </div>
